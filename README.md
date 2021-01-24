@@ -1,7 +1,7 @@
 # sentimental-analysis-twitter
 
 
-##REQUIREMENTS
+## REQUIREMENTS
 
 1. Juypter Notebook
 2. PostgresSQL
