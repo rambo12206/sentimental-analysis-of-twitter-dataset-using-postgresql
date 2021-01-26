@@ -22,7 +22,7 @@
 11. seaborn
 12. sklearn( CountVectorizer)
 
-##Description of project:
+## Description of project:
 
 In this project I have performed sentimental analysis using textblob and postgresql as a database for storing the live streaming tweets.
 I have selected the topic 'Trump' i.e all the tweets are regarding Donald Trump. I have used twiter developer account and tweepy library in order to extract live tweets.
