@@ -1,4 +1,4 @@
-# sentimental-analysis-twitter
+# sentimental-analysis-twitter-using-postgresql
 
 
 ## REQUIREMENTS
@@ -21,6 +21,13 @@
 10. collections
 11. seaborn
 12. sklearn( CountVectorizer)
+
+## Steps to run project
+
+ 1. Run - testing_connection_db
+ 2. Run - streamingtweets
+ 3. Run -removing_retweets
+ 4. Run -twitter_analysis
 
 ## Description of project:
 
